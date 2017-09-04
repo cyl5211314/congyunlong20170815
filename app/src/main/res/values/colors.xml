@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a30805</color>
+    <color name="colorPrimaryDark">#cccccc</color>
+    <color name="colorAccent">#0d0828</color>
+    <color name="colorLan">#ab000000</color>
+    <color name="colorBai">#deffffff</color>
+    <color name="colorTape">#288ff9</color>
+    <color name="colorgray">#b1b1b1</color>
+    <color name="coloroff">#da00d0ff</color>
+    <color name="colorotoolbar">#00d0ff</color>
+    <color name="colorotoocard">#ff8680</color>
+    <color name="coloroitem">#58ffffff</color>
+</resources>
